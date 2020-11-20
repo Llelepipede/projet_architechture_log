@@ -1,0 +1,7 @@
+D:\cours_ynov\Cours_Ingesup_C\projet_architechture_log\projet_architechture_log\obj\Debug\projet_architechture_log.csprojAssemblyReference.cache
+D:\cours_ynov\Cours_Ingesup_C\projet_architechture_log\projet_architechture_log\obj\Debug\projet_architechture_log.csproj.CoreCompileInputs.cache
+D:\cours_ynov\Cours_Ingesup_C\projet_architechture_log\projet_architechture_log\bin\Debug\projet_architechture_log.exe.config
+D:\cours_ynov\Cours_Ingesup_C\projet_architechture_log\projet_architechture_log\bin\Debug\projet_architechture_log.exe
+D:\cours_ynov\Cours_Ingesup_C\projet_architechture_log\projet_architechture_log\bin\Debug\projet_architechture_log.pdb
+D:\cours_ynov\Cours_Ingesup_C\projet_architechture_log\projet_architechture_log\obj\Debug\projet_architechture_log.exe
+D:\cours_ynov\Cours_Ingesup_C\projet_architechture_log\projet_architechture_log\obj\Debug\projet_architechture_log.pdb
